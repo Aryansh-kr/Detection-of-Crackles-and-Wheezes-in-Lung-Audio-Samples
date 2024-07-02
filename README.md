@@ -90,6 +90,10 @@ The DataFrame was split into training and testing sets for model training.
 #### Training Process
 The "Net" model was trained using Adam optimizer and categorical cross-entropy loss for a specified number of epochs.
 
+### Model Architecture
+![Screenshot 2024-07-03 015348](https://github.com/Aryansh-kr/Detection-of-Crackles-and-Wheezes-in-Lung-Audio-Samples/assets/127012188/c68e9567-0c70-4d89-b3d3-b872d7c0b5e1)
+
+
 #### Model Evaluation
 The model achieved an impressive accuracy of 92.46% on the test set, demonstrating effective classification of lung sound defects.
 
